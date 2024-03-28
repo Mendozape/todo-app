@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.6.4",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^1.0.0",
+        "material-icons": "^1.13.12",
+        "sass": "^1.56.1",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.4",
+        "@emotion/styled": "^11.11.0",
+        "@material/icon-button": "^14.0.0",
+        "@mui/icons-material": "^5.15.12",
+        "@mui/material": "^5.15.12",
+        "@vitejs/plugin-react": "^4.2.1",
+        "material-symbols": "^0.16.0",
+        "npm": "^10.5.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}
